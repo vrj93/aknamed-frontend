@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'aknamed-frontend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D494652BEF5490C831F4170FB307505 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EAF8E7CC3B914BB98A3494964FCFDAD4 }}
           package: .
